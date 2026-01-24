@@ -10,15 +10,19 @@ I am a Data Scientist with a strong background in applied mathematics and data a
 
 ## Projects
 The projects below demonstrate practical applications of data science and AI concepts:
+  ### 📊 Assets Under Custody Analytics
+  Time-series analysis and AWS-integrated data pipeline for monitoring assets under custody.  
+ 🔗 https://github.com/annapatricia/assets-under-custody-analytics
 
-- 📊 **Assets Under Custody Analytics**  
-  Time-series analysis and dashboards for monitoring asset evolution and market comparison.
+  ### 🧬 Genomic Data Analysis & Machine Learning
+  Computational analysis of molecular and genomic data.  
+  🔗 https://github.com/annapatricia/genomic-ml-project
+  
+  ### 🤖 Backend & APIs for Data Products
+  FastAPI-based backend services for data and AI products.  
+  🔗 https://github.com/annapatricia/fastapi-ai-backend
 
-- 🧬 **Genomic Data Analysis & Machine Learning**  
-  Computational analysis of molecular data, including pattern detection and interpretable models.
 
-- 🤖 **Backend & APIs for Data Products**  
-  Development of Python-based APIs using FastAPI to serve analytical and AI solutions.
 
 ## Tools & Technologies
 - Python, SQL, R  
