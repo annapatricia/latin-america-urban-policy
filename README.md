@@ -11,7 +11,7 @@ The projects below demonstrate practical applications of data science and AI con
   Time-series analysis and AWS-integrated data pipeline for monitoring assets under custody.  
  🔗 https://github.com/annapatricia/assets-under-custody-analytics
 
- ###🤖 Secure Chatbot with Guardrails (FastAPI + Render)
+  ### 🤖 Secure Chatbot with Guardrails (FastAPI + Render)
 
 Design and implementation of a public, globally accessible chatbot focused on safety, control, and clean architecture. 
 The system applies multiple guardrail layers, including input validation, intent and risk analysis, policy enforcement, and controlled responses.
