@@ -1,6 +1,3 @@
-# data-science-portfolio
-Portfolio of data science, AI and analytics projects
-
 # Data Science & AI Portfolio
 
 This repository presents a selection of projects in Data Science, Artificial Intelligence and Analytics, with applications in finance, healthcare and public policy.
