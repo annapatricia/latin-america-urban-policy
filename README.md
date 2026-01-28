@@ -14,6 +14,23 @@ The projects below demonstrate practical applications of data science and AI con
   Time-series analysis and AWS-integrated data pipeline for monitoring assets under custody.  
  🔗 https://github.com/annapatricia/assets-under-custody-analytics
 
+ 🤖 Secure Chatbot with Guardrails (FastAPI + Render)
+
+Design and implementation of a public, globally accessible chatbot focused on safety, control, and clean architecture. 
+The system applies multiple guardrail layers, including input validation, intent and risk analysis, policy enforcement, and controlled responses.
+
+The application is deployed on cloud infrastructure (Render), exposes a REST API built with FastAPI, and includes a lightweight HTML/JavaScript web interface for real-time interaction via browser or mobile devices.
+
+Key concepts:
+• Guardrails for prompt injection and misuse prevention  
+• Intent classification and risk assessment  
+• Policy engine for response control  
+• Cloud deployment with CI/CD via GitHub  
+• Public web interface without authentication  
+
+🔗 https://github.com/annapatricia/api_chatbot2
+
+
   ### 🧬 Genomic Data Analysis & Machine Learning
   Computational analysis of molecular and genomic data.  
   🔗 https://github.com/annapatricia/genomic-ml-project
