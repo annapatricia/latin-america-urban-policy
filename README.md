@@ -44,6 +44,22 @@ Key concepts:
 
 🔗 https://github.com/annapatricia/api_chatbot2
 
+### 🧪 Recycled Polymer Blend Optimizer (Simulation, DoE & Sustainability)
+
+Design and implementation of a computational R&D workflow to support material selection, simulation, experimental analysis, and sustainability assessment of recycled polymer blends.
+The project mimics an industrial materials research environment, integrating simplified physical modeling, statistical analysis, Design of Experiments (DoE), and techno-environmental evaluation to support data-driven decision-making and reduce experimental effort.
+
+The workflow is fully implemented in Python, with clear separation between raw and processed data, reproducible analysis scripts, automated generation of figures and tables, and a structured technical report.
+
+Key concepts:
+• Simplified mechanical and thermal simulation models
+• Integration of simulation and experimental data
+• Statistical model evaluation (RMSE, linear regression, significance)
+• Design of Experiments (DoE) for experimental space reduction
+• Techno-environmental comparison of recycling routes
+• End-to-end technical documentation for R&D decision support
+
+🔗 https://github.com/annapatricia/recycled-polymer-blend-optimizer
 
   ### 🧬 Genomic Data Analysis & Machine Learning
   Computational analysis of molecular and genomic data.  
