@@ -8,6 +8,29 @@ I am a Data Scientist with a strong background in applied mathematics and data a
 ## Projects
 The projects below demonstrate practical applications of data science and AI concepts:
 
+### 📊 Customer Health Risk Dashboard (Churn Analytics)
+
+End-to-end analytics project focused on monitoring customer health and churn risk through predictive analytics, explainable machine learning, and decision-oriented dashboards.
+
+The project simulates a real-world analytics workflow where customer behavioral and transactional data are ingested, processed, and transformed into risk indicators and churn probabilities. It demonstrates practical skills in data analytics, machine learning, and BI, bridging raw data to executive and operational decision-making.
+
+A supervised machine learning model is applied to estimate churn probability per customer, complemented by explainability logic to identify the main drivers behind the risk. The analytical outputs are consolidated into a data mart designed for BI consumption.
+
+The solution is delivered through an interactive Power BI dashboard, designed with a strong focus on UX analytics, enabling executives and operational teams to monitor KPIs, segment customers, and take proactive retention actions.
+
+The architecture is modular and cloud-ready, designed to integrate seamlessly with AWS-based analytics stacks, such as S3 for data storage and SQL-based engines for scalable querying.
+
+Key concepts:
+
+• Customer churn analytics and health monitoring
+• Predictive modeling with explainable machine learning
+• Feature engineering and analytical data marts
+• Python-based data processing and reproducible pipelines
+• BI dashboards with UX-oriented design for decision support
+• Cloud-ready analytics architecture aligned with AWS services
+
+🔗 https://github.com/annapatricia/customer-health-risk-dashboard
+
   ### 📊 Assets Under Custody Analytics
 
 End-to-end analytics project focused on monitoring assets under custody through time-series analysis and a modular, cloud-ready data pipeline.
