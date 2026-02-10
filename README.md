@@ -50,6 +50,28 @@ Key concepts:
 
 🔗 https://github.com/annapatricia/assets-under-custody-analytics
 
+🤖 AI Agent + NLP Extraction Pipeline
+
+End-to-end prototype of an AI agent designed to convert unstructured text into structured, analytics-ready data using Natural Language Processing (NLP) and modular orchestration logic.
+
+The project demonstrates how agent-based architectures can coordinate ingestion, preprocessing, information extraction, and output generation, bridging raw textual data and machine-readable formats suitable for analytics, automation, and downstream AI systems.
+
+Key concepts:
+
+AI agent orchestration and decision flow
+
+NLP-based text preprocessing and information extraction
+
+Modular, extensible Python architecture
+
+Prompt and LLM abstraction layer
+
+Structured output generation (JSON / CSV)
+
+Reproducible pipelines with CI integration
+
+🔗 https://github.com/annapatricia/ai-agent-nlp-pipeline
+
 
   ### 🤖 Secure Chatbot with Guardrails (FastAPI + Render)
 
