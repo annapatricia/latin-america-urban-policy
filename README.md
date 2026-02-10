@@ -106,16 +106,7 @@ Key concepts:
 
 🔗 https://github.com/annapatricia/recycled-polymer-blend-optimizer
 
-  ### 🧬 Genomic Data Analysis & Machine Learning
-  Computational analysis of molecular and genomic data.  
-  🔗 https://github.com/annapatricia/genomic-ml-project
   
-  ### 🤖 Backend & APIs for Data Products
-  FastAPI-based backend services for data and AI products.  
-  🔗 https://github.com/annapatricia/fastapi-ai-backend
-
-
-
 ## Tools & Technologies
 - Python, SQL, R  
 - Pandas, Scikit-learn, TensorFlow  
