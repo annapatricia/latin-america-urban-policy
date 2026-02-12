@@ -8,6 +8,21 @@ I am a Data Scientist with a strong background in applied mathematics and data a
 ## Projects
 The projects below demonstrate practical applications of data science and AI concepts:
 
+📡 Radar Nowcasting — Supervised Spatio-Temporal Modeling
+
+End-to-end supervised machine learning pipeline for spatio-temporal radar analysis and short-term event forecasting. The project implements convolutional neural networks (CNN) for both static classification (image → event detection) and temporal prediction (sequence of radar frames → future event classification).
+
+It includes controlled synthetic dataset generation, handling of class imbalance, quantitative evaluation via confusion matrices and recall-focused analysis, and automated workflow validation through GitHub Actions.
+
+Key highlights:
+• Spatio-temporal modeling using multi-channel CNN
+• Future-event prediction from sequential radar inputs
+• Supervised learning pipeline with train/validation split
+• Quantitative performance evaluation (precision/recall trade-offs)
+• Reproducible ML workflow with CI integration
+
+🔗 https://github.com/annapatricia/radar-nowcasting-ml
+
 ### 📊 Customer Health Risk Dashboard (Churn Analytics)
 
 End-to-end analytics project focused on monitoring customer health and churn risk through predictive analytics, explainable machine learning, and decision-oriented dashboards.
