@@ -8,7 +8,7 @@ I am a Data Scientist with a strong background in applied mathematics and data a
 ## Projects
 The projects below demonstrate practical applications of data science and AI concepts:
 
-📡 Radar Nowcasting — Supervised Spatio-Temporal Modeling
+### 📡 Radar Nowcasting — Supervised Spatio-Temporal Modeling
 
 End-to-end supervised machine learning pipeline for spatio-temporal radar analysis and short-term event forecasting. The project implements convolutional neural networks (CNN) for both static classification (image → event detection) and temporal prediction (sequence of radar frames → future event classification).
 
