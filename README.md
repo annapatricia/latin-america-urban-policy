@@ -5,131 +5,40 @@ This repository presents a selection of projects in Data Science, Artificial Int
 ## About Me
 I am a Data Scientist with a strong background in applied mathematics and data analysis, experienced in Python, machine learning, data pipelines and analytical reporting. My work focuses on transforming complex data into actionable insights and reproducible solutions.
 
-## Projects
-The projects below demonstrate practical applications of data science and AI concepts:
+# Urban Governance and Social Policy Research (Latin America)
 
-### 📡 Radar Nowcasting — Supervised Spatio-Temporal Modeling
+This repository presents selected research projects at the intersection of urban governance, territorial inequality, and social policy in Latin America. My research integrates geospatial analysis, causal inference, and computational social science to examine how institutional arrangements shape spatial patterns of vulnerability and social exclusion in urban contexts.
 
-End-to-end supervised machine learning pipeline for spatio-temporal radar analysis and short-term event forecasting. The project implements convolutional neural networks (CNN) for both static classification (image → event detection) and temporal prediction (sequence of radar frames → future event classification).
+The projects compiled here reflect a broader research agenda focused on:
 
-It includes controlled synthetic dataset generation, handling of class imbalance, quantitative evaluation via confusion matrices and recall-focused analysis, and automated workflow validation through GitHub Actions.
+- Urban marginality and territorial inequality  
+- Homelessness, housing exclusion, and institutional responses  
+- Public security governance and social vulnerability  
+- Evidence-based public policy design  
+- Comparative perspectives between Latin America and Europe  
 
-Key highlights:
-• Spatio-temporal modeling using multi-channel CNN
-• Future-event prediction from sequential radar inputs
-• Supervised learning pipeline with train/validation split
-• Quantitative performance evaluation (precision/recall trade-offs)
-• Reproducible ML workflow with CI integration
+By combining quantitative methods with institutional analysis, this research seeks to contribute to comparative debates on governance, inequality, and policy effectiveness.
 
-🔗 https://github.com/annapatricia/radar-nowcasting-ml
+---
 
-### 📊 Customer Health Risk Dashboard (Churn Analytics)
+## Selected Research Projects
 
-End-to-end analytics project focused on monitoring customer health and churn risk through predictive analytics, explainable machine learning, and decision-oriented dashboards.
+### 1. Spatial Policy Impact – Geospatial Causal Framework
 
-The project simulates a real-world analytics workflow where customer behavioral and transactional data are ingested, processed, and transformed into risk indicators and churn probabilities. It demonstrates practical skills in data analytics, machine learning, and BI, bridging raw data to executive and operational decision-making.
+Development of a spatial causal inference framework for evaluating territorial effects of public policies. This project constructs spatial panels and applies quasi-experimental methods to examine governance outcomes and urban inequality patterns.
 
-A supervised machine learning model is applied to estimate churn probability per customer, complemented by explainability logic to identify the main drivers behind the risk. The analytical outputs are consolidated into a data mart designed for BI consumption.
+---
 
-The solution is delivered through an interactive Power BI dashboard, designed with a strong focus on UX analytics, enabling executives and operational teams to monitor KPIs, segment customers, and take proactive retention actions.
+### 2. Geo Policy Impact – Spatial Diagnostics of Urban Vulnerability
 
-The architecture is modular and cloud-ready, designed to integrate seamlessly with AWS-based analytics stacks, such as S3 for data storage and SQL-based engines for scalable querying.
+Georeferenced analysis of socioeconomic concentration patterns using GIS-based methodologies to identify territorial inequality and inform evidence-based urban policymaking.
 
-Key concepts:
+---
 
-• Customer churn analytics and health monitoring
-• Predictive modeling with explainable machine learning
-• Feature engineering and analytical data marts
-• Python-based data processing and reproducible pipelines
-• BI dashboards with UX-oriented design for decision support
-• Cloud-ready analytics architecture aligned with AWS services
+### 3. AI-Supported Public Health Governance (Ongoing Project)
 
-🔗 https://github.com/annapatricia/customer-health-risk-dashboard
+Collaborative development of a data-driven decision-support framework in partnership with a public health institution. The initiative aims to enhance institutional coordination and evidence-based planning through integrated data systems and analytical modeling.
 
-  ### 📊 Assets Under Custody Analytics
+---
 
-End-to-end analytics project focused on monitoring assets under custody through time-series analysis and a modular, cloud-ready data pipeline.
-
-The project simulates a financial analytics workflow where transactional data is ingested, processed, and aggregated to produce monthly indicators of assets under custody. 
-It demonstrates practical data engineering and analytics skills, including data modeling, SQL-style aggregation, Python-based processing, and preparation for cloud deployment.
-
-The architecture is designed to be AWS-compatible, allowing seamless integration with services such as S3 for data storage, relational databases for structured data, and scalable compute for analytics workloads.
-
-Key concepts:
-• Time-series analysis and financial indicators  
-• Data ingestion and transformation pipelines  
-• Python-based data processing and aggregation  
-• SQL-like queries for analytics logic  
-• Cloud-ready architecture aligned with AWS services  
-• Reproducible analytics workflow  
-
-🔗 https://github.com/annapatricia/assets-under-custody-analytics
-
-🤖 AI Agent + NLP Extraction Pipeline
-
-End-to-end prototype of an AI agent designed to convert unstructured text into structured, analytics-ready data using Natural Language Processing (NLP) and modular orchestration logic.
-
-The project demonstrates how agent-based architectures can coordinate ingestion, preprocessing, information extraction, and output generation, bridging raw textual data and machine-readable formats suitable for analytics, automation, and downstream AI systems.
-
-Key concepts:
-
-AI agent orchestration and decision flow
-
-NLP-based text preprocessing and information extraction
-
-Modular, extensible Python architecture
-
-Prompt and LLM abstraction layer
-
-Structured output generation (JSON / CSV)
-
-Reproducible pipelines with CI integration
-
-🔗 https://github.com/annapatricia/ai-agent-nlp-pipeline
-
-
-  ### 🤖 Secure Chatbot with Guardrails (FastAPI + Render)
-
-Design and implementation of a public, globally accessible chatbot focused on safety, control, and clean architecture. 
-The system applies multiple guardrail layers, including input validation, intent and risk analysis, policy enforcement, and controlled responses.
-
-The application is deployed on cloud infrastructure (Render), exposes a REST API built with FastAPI, and includes a lightweight HTML/JavaScript web interface for real-time interaction via browser or mobile devices.
-
-Key concepts:
-• Guardrails for prompt injection and misuse prevention  
-• Intent classification and risk assessment  
-• Policy engine for response control  
-• Cloud deployment with CI/CD via GitHub  
-• Public web interface without authentication  
-
-🔗 https://github.com/annapatricia/api_chatbot2
-
-### 🧪 Recycled Polymer Blend Optimizer (Simulation, DoE & Sustainability)
-
-Design and implementation of a computational R&D workflow to support material selection, simulation, experimental analysis, and sustainability assessment of recycled polymer blends.
-The project mimics an industrial materials research environment, integrating simplified physical modeling, statistical analysis, Design of Experiments (DoE), and techno-environmental evaluation to support data-driven decision-making and reduce experimental effort.
-
-The workflow is fully implemented in Python, with clear separation between raw and processed data, reproducible analysis scripts, automated generation of figures and tables, and a structured technical report.
-
-Key concepts:
-• Simplified mechanical and thermal simulation models
-• Integration of simulation and experimental data
-• Statistical model evaluation (RMSE, linear regression, significance)
-• Design of Experiments (DoE) for experimental space reduction
-• Techno-environmental comparison of recycling routes
-• End-to-end technical documentation for R&D decision support
-
-🔗 https://github.com/annapatricia/recycled-polymer-blend-optimizer
-
-  
-## Tools & Technologies
-- Python, SQL, R  
-- Pandas, Scikit-learn, TensorFlow  
-- Jupyter Notebook, Google Colab  
-- Power BI, Matplotlib  
-- Git & GitHub  
-
-## Contact
-- GitHub: https://github.com/annapatricia  
-- LinkedIn: https://www.linkedin.com/in/anna-patricia-pachas-manrique-414806ab/
-
+Further documentation and project-specific materials are available in the respective repositories.
