@@ -38,4 +38,11 @@ https://github.com/annapatricia/ccd-gis-mvp
 Georeferenced analysis of socioeconomic concentration patterns using GIS-based methodologies to identify territorial inequality and inform urban policy interventions.
 
 Repository:  
-https://github.com/
+https://github.com/annapatricia/geo-policy-impact
+
+---
+
+### 3. AI-Supported Public Health Governance (Ongoing Project)
+
+Collaborative development of a data-driven decision-support framework in partnership with a public health institution. The initiative aims to enhance institutional coordination and evidence-based planning through integrated analytical systems.
+
