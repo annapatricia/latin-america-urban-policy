@@ -25,7 +25,7 @@ By combining spatial data analysis, quasi-experimental designs, and institutiona
 
 Development of a spatial causal inference framework for evaluating territorial effects of public policies. Construction of spatial panels and spillover analysis to assess patterns of urban inequality and governance outcomeshttps
 
-//github.com/annapatricia/ccd-gis-mvp
+https://github.com/annapatricia/ccd-gis-mvp
 .
 ### 2. Geo Policy Impact – Spatial Diagnostics of Urban Vulnerability
 
